@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Sadsfs sdfsdf fdsg
 # THANKS
 
     <name>
